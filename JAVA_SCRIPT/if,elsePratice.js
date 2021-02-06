@@ -41,3 +41,8 @@ console.log(result2);
 console.log(result3);
 console.log(result4);
 console.log(result5);
+/* 결과값 = * 여동생
+          * 남동생
+          * 친구
+          * 형
+          * 누나 */

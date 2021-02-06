@@ -9,3 +9,9 @@ function expressMultiplication(x, y){
   expressMultiplication(8, 9);
   expressMultiplication(5, 5);
   expressMultiplication(9, 9);
+  /* 결과값 = * 3 * 4 = 12
+            * 3 * 2 = 6 
+            * 7 * 5 = 35
+            * 8 * 9 = 72
+            * 5 * 5 = 25
+            * 9 * 9 = 81 */

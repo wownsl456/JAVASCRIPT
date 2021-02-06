@@ -31,3 +31,5 @@ function passChecker(scoreObject) {
 
 passChecker(hyesoonScore);
 passChecker(minsoonScore);
+/* 결과값 = * 축하합니다! 합격입니다!
+          * 아쉽지만 불합격입니다.. */

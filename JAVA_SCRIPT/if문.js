@@ -11,3 +11,6 @@ function checkHeight(height) {
 checkHeight(141);
 checkHeight(135);
 checkHeight(170);
+/* 결과값 = * 탑승이 가능합니다.
+          * 탑승이 불가능합니다.
+          * 탑승이 가능합니다. */

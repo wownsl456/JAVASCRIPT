@@ -10,3 +10,4 @@ function workDayCalc(startDate) {
 }
 
 workDayCalc(jaeSangStart);
+/* 결과값 = * 오늘은 입사한 지 1151일째 되는 날 입니다. */

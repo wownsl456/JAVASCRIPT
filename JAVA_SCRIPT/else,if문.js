@@ -18,3 +18,7 @@ printGrade(25, 35);
 printGrade(50, 45);
 printGrade(29, 24);
 printGrade(37, 42);
+/* 결과값 = * D
+          * A
+          * F
+          * C */

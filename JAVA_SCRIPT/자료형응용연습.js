@@ -6,14 +6,21 @@ let material4 = '4';
 let material5 = 4;
 
 // 연산 결과
-let result1;
-let result2;
+let result1 = '34'
+let result2 = 34
 
 // 연산을 통해 result1에 문자열 '34'를, result2에 숫자형 34를 만들어 넣어주세요.
 // 코드를 작성해주세요.
+
+result1 = material2 + material4
+result2 = material1 * material3 + material5
 
 // 테스트 코드
 console.log(result1);
 console.log(typeof result1);
 console.log(result2);
 console.log(typeof result2);
+/* 결과값 = * 34
+          * string
+          * 34
+          * number */

@@ -38,4 +38,9 @@ console.log(ages[ages.length - 1]);
 console.log(ages[3]);
 console.log(numbers[3]);
 console.log(numbers);
-// 결과값 = 청포도,사과,30,28,undefined,[2, 8]
+/* 결과값 = * 청포도
+          * 사과
+          * 30
+          * 28
+          * undefined
+          * [2, 8] */

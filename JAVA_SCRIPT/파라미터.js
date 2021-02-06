@@ -13,3 +13,7 @@ function teraToGiga(x){
   teraToGiga(2);
   // TB -> MB 테스트
   teraToMega(2);
+  /* 결과값 = * 2TB는
+            * 2048GB 입니다.
+            * 2TB는
+            * 2097152MB 입니다. */

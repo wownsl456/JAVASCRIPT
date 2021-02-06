@@ -8,3 +8,4 @@ let fahrenheitTemps = []
 
 // fahrenheitTemps 태스트
 console.log(fahrenheitTemps);
+/* 결과값 = * (7) [80.6, 77, 78.8, 71.6, 82.4, 80.6, 69.8] */

@@ -17,3 +17,10 @@ tagNotification(teenagerTag);
 tagNotification(transferTag);
 tagNotification(errorTag);
 tagNotification(adultTag);
+/* 결과값 = * 삑!
+          * 삑삑!
+          * 환승입니다.
+          * 삑삑삑!
+          * 삑! */
+
+        

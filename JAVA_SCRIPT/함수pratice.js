@@ -10,3 +10,9 @@ function logParticipant(name){
   logParticipant('동훈');
   logParticipant('영희');
   logParticipant('신욱');
+  /* 결과값 = * 동수(이)가 대화에 참여했습니다.
+            * 윤하(이)가 대화에 참여했습니다.
+            * 재준(이)가 대화에 참여했습니다.
+            * 동훈(이)가 대화에 참여했습니다.
+            * 영희(이)가 대화에 참여했습니다. 
+            * 신욱(이)가 대화에 참여했습니다. */

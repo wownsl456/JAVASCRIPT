@@ -8,7 +8,7 @@ let courseRanking = [
 
 
 console.log(courseRanking[0]); // index == PropertyName //indexong (0~...)
-// 결과값 = 자바스크립트 프로그래밍 기초
+/* 결과값 = * 자바스크립트 프로그래밍 기초 */
 
 // 배열의 length
 let members = [
@@ -23,13 +23,13 @@ let members = [
 console.log(members.length);    // length는 배열이 가지고 있는 총 개수를 표시해준다.
 console.log(members['length']);
 console.log(members[members.length - 1]);
-// 결과값 = 5 , 5 , End Miracle
+/* 결과값 = * 5 , 5 , End Miracle */
 
 
 members[3] = '달토끼';           // 배열을 추가하거나 수정하는 방법
 members[5] = 'NiceCodeit'; 
 console.log(members[5]);
-// 결과값 = 달토끼(흙토끼에서 달토끼로 수정) , NicdCodeit
+/* 결과값 = * 달토끼(흙토끼에서 달토끼로 수정) , NicdCodeit */
 
 // 배열의 메소드 (Array's Method)
 let members = [
@@ -42,7 +42,7 @@ let members = [
 
 members.splice(2, 2, 'MaumNo', '산토끼'); // splice(startIndex, deleteCount, item)
 console.log(members);
-// 결과값 = 쿤갈레, Zerrard66, MaumNo, 산토끼, End Miracle
+/* 결과값 = * 쿤갈레, Zerrard66, MaumNo, 산토끼, End Miracle */
 
 let members = [
     '쿤갈레', 
@@ -58,5 +58,5 @@ members.unshift('NiceCodeit'); // 배열의 첫 요소로 값 추가: unshift(va
 members.push('HiCodeit'); // 배열의 마지막 요소로 값 추가: push(value)
 
 console.log(members);
-// 결과값 = NiceCodeit, Zerrard66, 우리생각해써, 흙토끼, HiCodeit 
+/* 결과값 = * NiceCodeit, Zerrard66, 우리생각해써, 흙토끼, HiCodeit */ 
 
