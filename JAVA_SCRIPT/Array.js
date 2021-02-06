@@ -43,3 +43,20 @@ let members = [
 members.splice(2, 2, 'MaumNo', '산토끼'); // splice(startIndex, deleteCount, item)
 console.log(members);
 // 결과값 = 쿤갈레, Zerrard66, MaumNo, 산토끼, End Miracle
+
+let members = [
+    '쿤갈레', 
+    'Zerrard66', 
+    '우리생각해써', 
+    '흙토끼', 
+    'End Miracle'
+];
+
+members.shift(); // 배열의 첫 요소를 삭제: shift()
+members.pop(); // 배열의 마지막 요소를 삭제: pop()
+members.unshift('NiceCodeit'); // 배열의 첫 요소로 값 추가: unshift(value)
+members.push('HiCodeit'); // 배열의 마지막 요소로 값 추가: push(value)
+
+console.log(members);
+// 결과값 = NiceCodeit, Zerrard66, 우리생각해써, 흙토끼, HiCodeit 
+
