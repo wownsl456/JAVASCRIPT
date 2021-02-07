@@ -16,3 +16,6 @@ let totalMoney = myMoney + myInterest;
 console.log('맡긴 금액은 ' + myMoney + '원 입니다.');
 console.log('이자는 ' + myInterest + '원 입니다.');
 console.log('최종 받을 금액은 ' + totalMoney + '원 입니다.');
+/* 결과값 = * 맡긴 금액은 3650000원 입니다.
+          * 이자는 146000원 입니다.
+          * 최종 받을 금액은 3796000원 입니다. */

@@ -16,11 +16,14 @@ let myVoca = {
   myVoca.addVoca('element', '요소');
   myVoca.addVoca('property', '속성');
   console.log(myVoca);
-  
+  /* 결과값 = * {parameter: "매개변수", element: "요소", addVoca: f, deleteVoca: f, printVoca: f} */
+
   // deleteVoca메소드 테스트 코드
   myVoca.deleteVoca('parameter');
   myVoca.deleteVoca('element');
   console.log(myVoca);
-  
+  /* 결과값 = * {property: "속성", addVoca: f, deleteVoca: f, printVoca: f} */
+
   // printVoca메소드 테스트 코드
   myVoca.printVoca('property');
+  /* 결과값 = * "property"의 뜻은 "속성"입니다. */

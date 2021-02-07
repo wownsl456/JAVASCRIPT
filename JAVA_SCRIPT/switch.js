@@ -32,3 +32,8 @@ checkPrice('VIP');
 checkPrice('S');
 checkPrice('A');
 checkPrice('B');
+/* 결과값 = * R석은 13만원 입니다.
+          * VIP석은 15만원 입니다.
+          * S석은 10만원 입니다.
+          * A석은 8만원 입니다.
+          * VIP, R, S, A 중에서 하나를 선택해 주세요. */
