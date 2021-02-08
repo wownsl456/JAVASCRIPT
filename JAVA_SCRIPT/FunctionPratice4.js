@@ -1,6 +1,6 @@
 // orderSetMenu라는 이름의 함수를 만드세요.
 // 여기에 코드를 작성해주세요.
-function orderSetMenu(sandwich, drink = '스프라이트'){
+    function orderSetMenu(sandwich, drink = '스프라이트'){
     console.log(`주문하신 ${sandwich}, ${drink} 세트메뉴 나왔습니다!`)  
   }
   // 테스트 코드

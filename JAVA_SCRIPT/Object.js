@@ -9,7 +9,6 @@ let codeit = {
         language: 'JavaScript'
     }
 };
-
 // 점 표기법 (objectNme.propertyName)
 console.log(codeit.name); // 결과값 : '코드잇'
 
