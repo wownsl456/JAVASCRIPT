@@ -60,7 +60,7 @@ members.push('HiCodeit'); // 배열의 마지막 요소로 값 추가: push(valu
 console.log(members);
 /* 결과값 = * NiceCodeit, Zerrard66, 우리생각해써, 흙토끼, HiCodeit */ 
 
-let brands = ['Google', 'Kakao', 'Naver', 'Kakao']; // array.indexOf(item)을 하면 array 배열에 itemdl 포합되어 있는지 확인할 수 있다.
+let brands = ['Google', 'Kakao', 'Naver', 'Kakao']; // array.indexOf(item)을 하면 array 배열에 item이 포합되어 있는지 확인할 수 있다.
 console.log(brands.indexOf('Kakao'));               // 포함되어 있다면 item이 있는 인덱스가 리턴되고 포함되어 있지 않다면 -1이 리턴된다
 console.log(brands.indexOf('Daum'));
 /* 결과값 = * 1
