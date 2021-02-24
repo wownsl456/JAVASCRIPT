@@ -19,6 +19,6 @@ myTag.outerHTML = '<ul id="new-list"><li>Exotic</li></ul>'; // 새로운 값을 
 
 const myTag = document.querySelector('#list-1');
 
-console.log(myTag.textContent);  // textContent는 말그대로 텍스트만 다루기 때문에, 특수문자도 그냥 텍스트로 처리함
+console.log(myTag.textContent); // textContent는 말그대로 텍스트만 다루기 때문에, 특수문자도 그냥 텍스트로 처리함
 myTag.textContent = 'new text!'; // 새로운 값을 할당하면 innerHTMl과 마찬가지로 내부의 값을 완전히 새로운 값으로 교체함
                                 
