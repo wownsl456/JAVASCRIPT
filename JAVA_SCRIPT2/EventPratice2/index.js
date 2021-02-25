@@ -6,7 +6,7 @@ function updateToDo(event) {
   event.target.classList.toggle('done');
 }
 
-// 2. 반복문을 활용해서 각 li태그에 이벤트 핸들러를 등록해 주세
+// 2. 반복문을 활용해서 각 li태그에 이벤트 핸들러를 등록해 주세요.
 for (let item of items) {
   item.addEventListener('click', updateToDo)
 }
