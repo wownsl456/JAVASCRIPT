@@ -9,3 +9,4 @@ function printEvent(event) {
 
 myInput.addEventListener('keydown', printEvent);
 myBtn.addEventListener('click', printEvent);
+
