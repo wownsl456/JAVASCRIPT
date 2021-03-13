@@ -1,7 +1,5 @@
-function printArguments(a, b, c = 'javascript') {
-    console.log(a);
-    console.log(b);
-    console.log(c);
-};
+const members = ['태호', '종훈', '우재'];
 
-printArguments('Young');
+const newObject = [...members];
+
+console.log(newObject);
