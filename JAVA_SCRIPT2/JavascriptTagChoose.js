@@ -11,4 +11,3 @@ document.querySelectorAll('css') // css 선택자로 태그 선택하기 = css �
        2. length 프로퍼티가 있다.
        3. 배열의 기본 메소드를 사용할 수 없다.
        4. Array.isArray(유사배열)의 리턴값은 false다. */
-
