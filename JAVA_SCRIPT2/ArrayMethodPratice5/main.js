@@ -23,3 +23,4 @@ const spait = [
   
   // 테스트 코드
   spait.forEach((team) => checkSpy(team));
+  
